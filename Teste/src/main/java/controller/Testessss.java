@@ -9,6 +9,6 @@ public class Testessss {
 	
 	private int numeros;
 	private String nomes;
-	
+	private String cpf;
 	
 }
